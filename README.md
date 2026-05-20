@@ -4,7 +4,7 @@ Um script automatizado desenvolvido em **Google Apps Script** para varrer a raiz
 
 ---
 
-## ✨ Funcionalidades do Robô
+## ✨ Funcionalidades
 
 *   📂 **Organização por Categoria:** Move arquivos soltos na raiz para pastas automáticas baseadas no tipo de arquivo (Documentos, Planilhas, PDFs, Fotos, Vídeos e Outros).
 *   📦 **Filtro de Arquivos Grandes:** Arquivos com mais de 10MB são movidos para uma subpasta especial chamada "Maiores de 10MB".
